@@ -1,5 +1,8 @@
 # Setup
 
+1. create **_codding_addict_** database in your localhost mongoDBCompass
+2. in your terminal
+
 ```bash
 npm install && npm start
 ```
